@@ -10,4 +10,4 @@ _Tecnologias utilizadas:_
 
 _Link da Aplicação:_ [DSVendas](https://ines-sds3.netlify.app)
 
-<img src="C:\Users\Inês\Desktop\ws-devsuperior\projeto-sds3\frontend\src\assets\img\DSVendas.png">
+<img src="..\img\DSVendas.png">
